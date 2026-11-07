@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Ansible part 2`" - "`Bomba`"
+# `Ansible part 2`" - "`Bomba`"
    
 
 ### Задание 1
